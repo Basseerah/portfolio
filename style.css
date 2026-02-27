@@ -648,9 +648,11 @@ footer {
     }
 
     .hero h1 {
-        font-size: 2.5rem;
+        font-size: 1.8rem;
         line-height: 1.2;
         margin-bottom: 1.5rem;
+        word-wrap: break-word;
+        overflow-wrap: break-word;
     }
 
     .hero p {
@@ -682,8 +684,10 @@ footer {
     }
 
     h2 {
-        font-size: 2.2rem;
+        font-size: 1.6rem;
         margin-bottom: 2rem;
+        word-wrap: break-word;
+        overflow-wrap: break-word;
     }
 
     .projects-grid {
